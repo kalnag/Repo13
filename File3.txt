@@ -2,3 +2,4 @@ Linux commands
 ls
 cd
 cat
+commit
